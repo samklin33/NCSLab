@@ -1,0 +1,10 @@
+build/
+devel/
+install/
+.catkin_tools/
+.catkin_workspace
+src/locosim/lab_exercises/
+# Exclude the ROS symlink and locosim submodule
+src/CMakeLists.txt
+src/locosim/
+
