@@ -6,5 +6,5 @@ install/
 src/locosim/lab_exercises/
 # Exclude the ROS symlink and locosim submodule
 src/CMakeLists.txt
-src/locosim/
+# src/locosim/
 
