@@ -20,6 +20,9 @@ pycharm-community-2021.1.1/
 .package-lock.json
 pycharm-community-2021.1.1.tar.gz
 
+catkin_ws/build/
+catkin_ws/devel/
+catkin_ws/install/
 
 ros_ws/build/
 ros_ws/devel/
@@ -28,4 +31,5 @@ ros_ws/.catkin_tools/
 ros_ws/.catkin_workspace
 ros_ws/src/locosim/lab_exercises/
 # Exclude the ROS symlink and locosim submodule
+catkin_ws/src/CMakeLists.txt
 ros_ws/src/CMakeLists.txt
