@@ -1,0 +1,6 @@
+# Request: float64 value
+float64 value
+
+---
+# Response: bool success
+bool success
